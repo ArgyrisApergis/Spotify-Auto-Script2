@@ -1,2 +1,2 @@
 # Spotify-Auto-Script2(selenium)
-Auto finding a song on spotify and playing it.
+Auto-log in, find a song on Spotify, and play it.
